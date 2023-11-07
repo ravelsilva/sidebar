@@ -44,5 +44,6 @@ Se você deseja contribuir para este projeto, siga estas etapas:
 
 ## Autores
 
-Ravel Silva - Desenvolvedor principal
+Ravel Silva - Desenvolvedor principal.
+
 Código feito a partir do vídeo: https://www.youtube.com/watch?v=RlaZjCgTw9M
